@@ -1,4 +1,4 @@
-Name:
-Field of study:
-Favorite color:
+Name: ferhat  
+Field of study: compbio
+Favorite color: blue
 
